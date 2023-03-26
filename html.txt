@@ -1,7 +1,6 @@
 hello world
 the second changes user login
 
-the chnage for revert first
 
 the second change for revert
 
