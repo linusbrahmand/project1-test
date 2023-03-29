@@ -8,6 +8,3 @@ third change for test revert
 
 test for username show
 
-this is guess numbers game for website
-if this is satisfied the branch is gonna merge to master
-
